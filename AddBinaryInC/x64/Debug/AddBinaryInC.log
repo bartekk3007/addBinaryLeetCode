@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\48571\source\repos\AddBinaryInC\main.c(18,23): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48571\source\repos\AddBinaryInC\main.c(18,34): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48571\source\repos\AddBinaryInC\main.c(20,20): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48571\source\repos\AddBinaryInC\main.c(21,20): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  AddBinaryInC.vcxproj -> C:\Users\48571\source\repos\AddBinaryInC\x64\Debug\AddBinaryInC.exe
